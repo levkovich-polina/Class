@@ -1,0 +1,8 @@
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\bin\Debug\Class_Task1.exe.config
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\bin\Debug\Class_Task1.exe
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\bin\Debug\Class_Task1.pdb
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\obj\Debug\Class_Task1.csproj.AssemblyReference.cache
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\obj\Debug\Class_Task1.csproj.SuggestedBindingRedirects.cache
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\obj\Debug\Class_Task1.csproj.CoreCompileInputs.cache
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\obj\Debug\Class_Task1.exe
+D:\C#\ДЗ4(классы)\Class_Task1\Class_Task1\Class_Task1\obj\Debug\Class_Task1.pdb
